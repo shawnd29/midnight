@@ -9,7 +9,10 @@ The main goal of this project is to build a no-code platform that explains the d
 1.	An in-depth expiation of your data through an interactive EDA interface
 2.	An ML platform that deploys the best model with interpretable measures
 
-![Puppies](https://image.shutterstock.com/z/stock-photo-american-staffordshire-terrier-puppies-sitting-in-a-box-1048123303.jpg)
+
+
+![EDA](./assets/images/EDA.gif)
+![EDA](./assets/images/ML.gif)
 
 Let’s look at what each of them can do:
 
