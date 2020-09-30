@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Introducing AutoEDA&ML:  A Streamlined EDA and ML platform 
+## Introducing xEDA&ML:  A Streamlined EDA and ML platform 
 
 
 The main goal of this project is to build a no-code platform that explains the data behind the model. The 2 main objectives are:
@@ -11,8 +11,8 @@ The main goal of this project is to build a no-code platform that explains the d
 
 
 
-![EDA](./assets/images/EDA.gif){:height="300px" width="400px"}
-![EDA](./assets/images/ML.gif){:height="300px" width="400px"}
+![EDA](./assets/images/EDA.gif){:height="30%" width="40%"}
+![EDA](./assets/images/ML.gif){:height="30%" width="40%"}
 
 Let’s look at what each of them can do:
 
