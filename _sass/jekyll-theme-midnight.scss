@@ -283,6 +283,9 @@ a {
         font-size:14px;
         display:inline-block;
         text-align:center;
+        position: relative;
+        left: 50%;
+        
 
         &:hover {
           background: linear-gradient(#749619, #527f0e);
