@@ -11,8 +11,8 @@ The main goal of this project is to build a no-code platform that explains the d
 
 
 
-![EDA](./assets/images/EDA.gif){:height="30%" width="40%"}
-![EDA](./assets/images/ML.gif){:height="30%" width="40%"}
+![EDA](./assets/images/EDA.gif){:height="40%" width="40%"}
+![ML](./assets/images/ML.gif){:height="40%" width="40%"}
 
 Let’s look at what each of them can do:
 
@@ -23,6 +23,6 @@ Granular understanding of individual features|Rapid data preprocessing
 |Visual analysis on missing values | 10 Folds Cross Validation to find the best hyperparameters
 |Uni, bi and multivariate analysis of features         | 15 visual insights to understand the classification       
 |Precise breakdown on numeric, categorical and date-time features | Deploy a pipeline of the data preprocessing and model
-
+|![EDA](./assets/images/EDA.gif){:height="40%" width="40%"} | ![ML](./assets/images/ML.gif){:height="40%" width="40%"}
 
 Here is a visual roadmap of the steps taken: 
