@@ -1,6 +1,6 @@
 
 # Introducing RapidInsights
-
+<p> </p>
 ## A Streamlined EDA and ML platform
 
 The main goal of this project is to build a no-code platform that explains the data behind the model. The 2 main objectives are: <br />
