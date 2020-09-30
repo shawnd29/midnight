@@ -21,6 +21,6 @@ Granular understanding of individual features|Rapid data preprocessing
 |Visual analysis on missing values | 10 Folds Cross Validation to find the best hyperparameters
 |Uni, bi and multivariate analysis of features         | 15 visual insights to understand the classification       
 |Precise breakdown on numeric, categorical and date-time features | Deploy a pipeline of the data preprocessing and model
-|<br / >![EDA](./assets/images/EDA.gif) |<br / > ![ML](./assets/images/ML.gif)
+|![EDA](./assets/images/EDA.gif) | ![ML](./assets/images/ML.gif)
 
 
