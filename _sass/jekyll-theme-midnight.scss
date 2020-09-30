@@ -267,6 +267,8 @@ section {
         float: right;
       }
     }
+  }
+}
 a {
         color: white;
         border: 1px solid #5d910b;
@@ -289,8 +291,6 @@ a {
           box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
         }
       }
-  }
-}
 
 @media print, screen and (max-width: 720px) {
 
