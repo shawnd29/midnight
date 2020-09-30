@@ -11,8 +11,8 @@ The main goal of this project is to build a no-code platform that explains the d
 
 
 
-![EDA](./assets/images/EDA.gif){:height="700px" width="400px"}
-![EDA](./assets/images/ML.gif){:height="700px" width="400px"}
+![EDA](./assets/images/EDA.gif){:height="300px" width="400px"}
+![EDA](./assets/images/ML.gif){:height="300px" width="400px"}
 
 Let’s look at what each of them can do:
 
