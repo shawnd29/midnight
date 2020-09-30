@@ -275,6 +275,7 @@ section {
 #lowerbox {
 
     a {
+  
     color: white;
     border: 1px solid #5d910b;
     background: linear-gradient(#93bd20, #659e10);
@@ -282,6 +283,7 @@ section {
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
 
     background-color: #93bd20;
+    padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
     font-size:14px;
@@ -289,7 +291,7 @@ section {
     text-align:center;
       
     position:relative;
-    left:50%; 
+    left:40%; 
 
     &:hover {
         background: linear-gradient(#749619, #527f0e);
