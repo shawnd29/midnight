@@ -1,5 +1,5 @@
 
-#Introducing RapidInsights
+# Introducing RapidInsights
 
 ## A Streamlined EDA and ML platform
 
