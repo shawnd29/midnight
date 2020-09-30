@@ -1,4 +1,8 @@
 
+[comment]: # (This is the UI For showing of the project)
+
+[comment]: # (For the actual project, do vsit https://webapp-streamlined.herokuapp.com/ )
+
 # Introducing RapidInsights
 <p> </p>
 ### A Streamlined EDA and ML platform
